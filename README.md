@@ -1,4 +1,8 @@
 # pocky-virtual-pet
+<p align="center">
+  <img src="pocky.png" />
+</p>
+
 [EN]
 A quiz game made in C++ that revolves around the character "Pocky", a slime with food related problems.
 
